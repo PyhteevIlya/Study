@@ -1,0 +1,26 @@
+F:\Product catalog with categories\Product catalog with categories Client\bin\Debug\net6.0\appsettings.Development.json
+F:\Product catalog with categories\Product catalog with categories Client\bin\Debug\net6.0\appsettings.json
+F:\Product catalog with categories\Product catalog with categories Client\bin\Debug\net6.0\Product catalog with categories Client.staticwebassets.runtime.json
+F:\Product catalog with categories\Product catalog with categories Client\bin\Debug\net6.0\Product catalog with categories Client.exe
+F:\Product catalog with categories\Product catalog with categories Client\bin\Debug\net6.0\Product catalog with categories Client.deps.json
+F:\Product catalog with categories\Product catalog with categories Client\bin\Debug\net6.0\Product catalog with categories Client.runtimeconfig.json
+F:\Product catalog with categories\Product catalog with categories Client\bin\Debug\net6.0\Product catalog with categories Client.dll
+F:\Product catalog with categories\Product catalog with categories Client\bin\Debug\net6.0\Product catalog with categories Client.pdb
+F:\Product catalog with categories\Product catalog with categories Client\obj\Debug\net6.0\Product catalog with categories Client.csproj.AssemblyReference.cache
+F:\Product catalog with categories\Product catalog with categories Client\obj\Debug\net6.0\Product catalog with categories Client.GeneratedMSBuildEditorConfig.editorconfig
+F:\Product catalog with categories\Product catalog with categories Client\obj\Debug\net6.0\Product catalog with categories Client.AssemblyInfoInputs.cache
+F:\Product catalog with categories\Product catalog with categories Client\obj\Debug\net6.0\Product catalog with categories Client.AssemblyInfo.cs
+F:\Product catalog with categories\Product catalog with categories Client\obj\Debug\net6.0\Product catalog with categories Client.csproj.CoreCompileInputs.cache
+F:\Product catalog with categories\Product catalog with categories Client\obj\Debug\net6.0\Product catalog with categories Client.MvcApplicationPartsAssemblyInfo.cache
+F:\Product catalog with categories\Product catalog with categories Client\obj\Debug\net6.0\Product catalog with categories Client.RazorAssemblyInfo.cache
+F:\Product catalog with categories\Product catalog with categories Client\obj\Debug\net6.0\Product catalog with categories Client.RazorAssemblyInfo.cs
+F:\Product catalog with categories\Product catalog with categories Client\obj\Debug\net6.0\staticwebassets.build.json
+F:\Product catalog with categories\Product catalog with categories Client\obj\Debug\net6.0\staticwebassets.development.json
+F:\Product catalog with categories\Product catalog with categories Client\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\Product catalog with categories\Product catalog with categories Client\obj\Debug\net6.0\scopedcss\bundle\Product catalog with categories Client.styles.css
+F:\Product catalog with categories\Product catalog with categories Client\obj\Debug\net6.0\scopedcss\projectbundle\Product catalog with categories Client.bundle.scp.css
+F:\Product catalog with categories\Product catalog with categories Client\obj\Debug\net6.0\Product catalog with categories Client.dll
+F:\Product catalog with categories\Product catalog with categories Client\obj\Debug\net6.0\refint\Product catalog with categories Client.dll
+F:\Product catalog with categories\Product catalog with categories Client\obj\Debug\net6.0\Product catalog with categories Client.pdb
+F:\Product catalog with categories\Product catalog with categories Client\obj\Debug\net6.0\Product catalog with categories Client.genruntimeconfig.cache
+F:\Product catalog with categories\Product catalog with categories Client\obj\Debug\net6.0\ref\Product catalog with categories Client.dll
