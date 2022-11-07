@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Product catalog with categories WebAPI", "Product catalog with categories WebAPI\Product catalog with categories WebAPI.csproj", "{EEEB24EF-1A2B-4234-A353-0D599E26DD0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Product catalog with categories Client", "Product catalog with categories Client\Product catalog with categories Client.csproj", "{BE0DC176-FD37-4379-BB0C-729AD423311E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEEB24EF-1A2B-4234-A353-0D599E26DD0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEEB24EF-1A2B-4234-A353-0D599E26DD0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEEB24EF-1A2B-4234-A353-0D599E26DD0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEEB24EF-1A2B-4234-A353-0D599E26DD0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE0DC176-FD37-4379-BB0C-729AD423311E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE0DC176-FD37-4379-BB0C-729AD423311E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE0DC176-FD37-4379-BB0C-729AD423311E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE0DC176-FD37-4379-BB0C-729AD423311E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FE7A80F-F4A9-48A6-A895-B47B9A5FCB0D}
+	EndGlobalSection
+EndGlobal
