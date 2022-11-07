@@ -24,3 +24,29 @@ F:\Product catalog with categories\Product catalog with categories Client\obj\De
 F:\Product catalog with categories\Product catalog with categories Client\obj\Debug\net6.0\Product catalog with categories Client.pdb
 F:\Product catalog with categories\Product catalog with categories Client\obj\Debug\net6.0\Product catalog with categories Client.genruntimeconfig.cache
 F:\Product catalog with categories\Product catalog with categories Client\obj\Debug\net6.0\ref\Product catalog with categories Client.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\Study\Product catalog with categories Client\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ilya.Pykhteev\Documents\GitHub\Study\Product catalog with categories Client\bin\Debug\net6.0\appsettings.json
+C:\Users\Ilya.Pykhteev\Documents\GitHub\Study\Product catalog with categories Client\bin\Debug\net6.0\Product catalog with categories Client.staticwebassets.runtime.json
+C:\Users\Ilya.Pykhteev\Documents\GitHub\Study\Product catalog with categories Client\bin\Debug\net6.0\Product catalog with categories Client.exe
+C:\Users\Ilya.Pykhteev\Documents\GitHub\Study\Product catalog with categories Client\bin\Debug\net6.0\Product catalog with categories Client.deps.json
+C:\Users\Ilya.Pykhteev\Documents\GitHub\Study\Product catalog with categories Client\bin\Debug\net6.0\Product catalog with categories Client.runtimeconfig.json
+C:\Users\Ilya.Pykhteev\Documents\GitHub\Study\Product catalog with categories Client\bin\Debug\net6.0\Product catalog with categories Client.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\Study\Product catalog with categories Client\bin\Debug\net6.0\Product catalog with categories Client.pdb
+C:\Users\Ilya.Pykhteev\Documents\GitHub\Study\Product catalog with categories Client\obj\Debug\net6.0\Product catalog with categories Client.csproj.AssemblyReference.cache
+C:\Users\Ilya.Pykhteev\Documents\GitHub\Study\Product catalog with categories Client\obj\Debug\net6.0\Product catalog with categories Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilya.Pykhteev\Documents\GitHub\Study\Product catalog with categories Client\obj\Debug\net6.0\Product catalog with categories Client.AssemblyInfoInputs.cache
+C:\Users\Ilya.Pykhteev\Documents\GitHub\Study\Product catalog with categories Client\obj\Debug\net6.0\Product catalog with categories Client.AssemblyInfo.cs
+C:\Users\Ilya.Pykhteev\Documents\GitHub\Study\Product catalog with categories Client\obj\Debug\net6.0\Product catalog with categories Client.csproj.CoreCompileInputs.cache
+C:\Users\Ilya.Pykhteev\Documents\GitHub\Study\Product catalog with categories Client\obj\Debug\net6.0\Product catalog with categories Client.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ilya.Pykhteev\Documents\GitHub\Study\Product catalog with categories Client\obj\Debug\net6.0\Product catalog with categories Client.RazorAssemblyInfo.cache
+C:\Users\Ilya.Pykhteev\Documents\GitHub\Study\Product catalog with categories Client\obj\Debug\net6.0\Product catalog with categories Client.RazorAssemblyInfo.cs
+C:\Users\Ilya.Pykhteev\Documents\GitHub\Study\Product catalog with categories Client\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ilya.Pykhteev\Documents\GitHub\Study\Product catalog with categories Client\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ilya.Pykhteev\Documents\GitHub\Study\Product catalog with categories Client\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Ilya.Pykhteev\Documents\GitHub\Study\Product catalog with categories Client\obj\Debug\net6.0\scopedcss\bundle\Product catalog with categories Client.styles.css
+C:\Users\Ilya.Pykhteev\Documents\GitHub\Study\Product catalog with categories Client\obj\Debug\net6.0\scopedcss\projectbundle\Product catalog with categories Client.bundle.scp.css
+C:\Users\Ilya.Pykhteev\Documents\GitHub\Study\Product catalog with categories Client\obj\Debug\net6.0\Product catalog with categories Client.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\Study\Product catalog with categories Client\obj\Debug\net6.0\refint\Product catalog with categories Client.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\Study\Product catalog with categories Client\obj\Debug\net6.0\Product catalog with categories Client.pdb
+C:\Users\Ilya.Pykhteev\Documents\GitHub\Study\Product catalog with categories Client\obj\Debug\net6.0\Product catalog with categories Client.genruntimeconfig.cache
+C:\Users\Ilya.Pykhteev\Documents\GitHub\Study\Product catalog with categories Client\obj\Debug\net6.0\ref\Product catalog with categories Client.dll

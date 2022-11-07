@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Product_catalog_with_categories_WebAPI.Data;
 
 namespace Product_catalog_with_categories_WebAPI.Controllers
@@ -18,7 +19,10 @@ namespace Product_catalog_with_categories_WebAPI.Controllers
         public List<Data.Computer> Get()
         {
 
-            var Computers = _catalogDbContext.Computers.ToList();
+            var Computers = _catalogDbContext.Computers
+                .Include(x => x.Electronic)
+                
+                .ToList();
 
             return Computers;
         }
@@ -42,7 +46,7 @@ namespace Product_catalog_with_categories_WebAPI.Controllers
             }
             existComputer.BrandName = Computer.BrandName;
             existComputer.Model = Computer.Model;
-            existComputer.ComputerId = Computer.ComputerId;
+            //existComputer.ComputerId = Computer.ComputerId;
             existComputer.Price = Computer.Price;
          
 

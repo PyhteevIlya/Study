@@ -7,8 +7,8 @@ namespace Product_catalog_with_categories_WebAPI.Data
     {
         [Key]
         public int Id { get; set; }
-        public string Categories { get; set; }
-        public int ElectonicId { get; set; }
+        public string Name { get; set; }
+        public ElectronicType Type { get; set; }
 
 
     }

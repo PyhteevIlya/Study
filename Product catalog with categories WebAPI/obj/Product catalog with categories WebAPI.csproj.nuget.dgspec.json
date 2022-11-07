@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Product catalog with categories\\Product catalog with categories WebAPI\\Product catalog with categories WebAPI.csproj": {}
+    "C:\\Users\\Ilya.Pykhteev\\Documents\\GitHub\\Study\\Product catalog with categories WebAPI\\Product catalog with categories WebAPI.csproj": {}
   },
   "projects": {
-    "F:\\Product catalog with categories\\Product catalog with categories WebAPI\\Product catalog with categories WebAPI.csproj": {
+    "C:\\Users\\Ilya.Pykhteev\\Documents\\GitHub\\Study\\Product catalog with categories WebAPI\\Product catalog with categories WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Product catalog with categories\\Product catalog with categories WebAPI\\Product catalog with categories WebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Ilya.Pykhteev\\Documents\\GitHub\\Study\\Product catalog with categories WebAPI\\Product catalog with categories WebAPI.csproj",
         "projectName": "Product catalog with categories WebAPI",
-        "projectPath": "F:\\Product catalog with categories\\Product catalog with categories WebAPI\\Product catalog with categories WebAPI.csproj",
-        "packagesPath": "C:\\Users\\Илья\\.nuget\\packages\\",
-        "outputPath": "F:\\Product catalog with categories\\Product catalog with categories WebAPI\\obj\\",
+        "projectPath": "C:\\Users\\Ilya.Pykhteev\\Documents\\GitHub\\Study\\Product catalog with categories WebAPI\\Product catalog with categories WebAPI.csproj",
+        "packagesPath": "C:\\Users\\Ilya.Pykhteev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ilya.Pykhteev\\Documents\\GitHub\\Study\\Product catalog with categories WebAPI\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Илья\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ilya.Pykhteev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -84,7 +88,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

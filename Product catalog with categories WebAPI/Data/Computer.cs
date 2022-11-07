@@ -11,14 +11,14 @@ namespace Product_catalog_with_categories_WebAPI.Data
         public string BrandName { get; set; }
         public string Model { get; set; }
         public int Price { get; set; }
-        public int ComputerId { get; set; }
+        //public int ComputerId { get; set; }
 
         //public ComputerType Type { get; set; }
 
-        //[ForeignKey(nameof(Electronic))]
-        //public int ElectronicId { get; set; }
+        [ForeignKey(nameof(Electronic))]
+        public int ElectronicId { get; set; }
 
-        //public Electronic Electronic { get; set; }
+        public Electronic Electronic { get; set; }
 
     }
 }

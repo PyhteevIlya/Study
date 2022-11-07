@@ -40,8 +40,8 @@ namespace Product_catalog_with_categories_WebAPI.Controllers
             {
                 return NotFound();
             }
-            existElectronic.Categories = electronic.Categories;
-            existElectronic.ElectonicId = electronic.ElectonicId;
+            existElectronic.Name = electronic.Name;
+            existElectronic.Type = electronic.Type;
 
             _catalogDbContext.Electronics.Update(existElectronic);
             _catalogDbContext.SaveChanges();
