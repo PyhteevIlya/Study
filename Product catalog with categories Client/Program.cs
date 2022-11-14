@@ -1,7 +1,11 @@
+using Product_catalog_with_categories_Client.Models.Config;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+
+builder.Services.Configure<ProductcatalogwithcategoriesWebAPIConfig>(builder.Configuration.GetSection("Product catalog with categories WebAPI"));
 
 var app = builder.Build();
 
@@ -22,6 +26,6 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+    pattern: "{controller=Electronics}/{action=Index}/{id?}");
 
 app.Run();

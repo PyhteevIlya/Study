@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Product_catalog_with_categories_WebAPI.Data;
+using ProductCatalogData.Models;
 
 namespace Product_catalog_with_categories_WebAPI.Controllers
 {
@@ -16,7 +17,7 @@ namespace Product_catalog_with_categories_WebAPI.Controllers
         }
 
         [HttpGet]
-        public List<Data.Computer> Get()
+        public List<Computer> Get()
         {
 
             var Computers = _catalogDbContext.Computers
@@ -28,7 +29,7 @@ namespace Product_catalog_with_categories_WebAPI.Controllers
         }
 
         [HttpGet("{id}")]
-        public Data.Computer Get(int id)
+        public Computer Get(int id)
         {
 
             var Computers = _catalogDbContext.Computers.FirstOrDefault(x => x.Id == id);
@@ -37,7 +38,7 @@ namespace Product_catalog_with_categories_WebAPI.Controllers
         }
 
         [HttpPost("{id}")]
-        public IActionResult Post(int id, Data.Computer Computer)
+        public IActionResult Post(int id, Computer Computer)
         {
             var existComputer = _catalogDbContext.Computers.FirstOrDefault(x => x.Id == id);
             if (existComputer == null)
@@ -57,7 +58,7 @@ namespace Product_catalog_with_categories_WebAPI.Controllers
         }
 
         [HttpPut]
-        public IActionResult Put(Data.Computer Computer)
+        public IActionResult Put(Computer Computer)
         {
             _catalogDbContext.Computers.Add(Computer);
             _catalogDbContext.SaveChanges();

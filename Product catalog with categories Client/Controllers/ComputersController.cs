@@ -4,11 +4,11 @@ using System.Diagnostics;
 
 namespace Product_catalog_with_categories_Client.Controllers
 {
-    public class HomeController : Controller
+    public class ComputersController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
+        private readonly ILogger<ComputersController> _logger;
 
-        public HomeController(ILogger<HomeController> logger)
+        public ComputersController(ILogger<ComputersController> logger)
         {
             _logger = logger;
         }

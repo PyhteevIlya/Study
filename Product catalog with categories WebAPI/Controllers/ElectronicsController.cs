@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Product_catalog_with_categories_WebAPI.Data;
+using ProductCatalogData.Models;
 
 namespace Product_catalog_with_categories_WebAPI.Controllers
 {
@@ -15,7 +16,7 @@ namespace Product_catalog_with_categories_WebAPI.Controllers
         }
 
         [HttpGet]
-        public List<Data.Electronic> Get()
+        public List<Electronic> Get()
         {
 
             var Electronics = _catalogDbContext.Electronics.ToList();
@@ -24,7 +25,7 @@ namespace Product_catalog_with_categories_WebAPI.Controllers
         }
 
         [HttpGet("{id}")]
-        public Data.Electronic Get(int id)
+        public Electronic Get(int id)
         {
 
             var Electronic = _catalogDbContext.Electronics.FirstOrDefault(x =>x.Id == id);
@@ -33,7 +34,7 @@ namespace Product_catalog_with_categories_WebAPI.Controllers
         }
 
         [HttpPost("{id}")]
-        public IActionResult Post(int id, Data.Electronic electronic)
+        public IActionResult Post(int id, Electronic electronic)
         {
             var existElectronic = _catalogDbContext.Electronics.FirstOrDefault(x => x.Id == id);
             if(existElectronic == null)
@@ -50,7 +51,7 @@ namespace Product_catalog_with_categories_WebAPI.Controllers
         }
 
         [HttpPut]
-        public IActionResult Put(Data.Electronic electronic)
+        public IActionResult Put(Electronic electronic)
         {
             _catalogDbContext.Electronics.Add(electronic);
             _catalogDbContext.SaveChanges();

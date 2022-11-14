@@ -8,37 +8,37 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Product_catalog_with_categories_Client
 build_property.RootNamespace = Product_catalog_with_categories_Client
-build_property.ProjectDir = C:\Users\Ilya.Pykhteev\Documents\GitHub\Study\Product catalog with categories Client\
+build_property.ProjectDir = F:\Учеба\Study\Product catalog with categories Client\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Ilya.Pykhteev\Documents\GitHub\Study\Product catalog with categories Client
+build_property.MSBuildProjectDirectory = F:\Учеба\Study\Product catalog with categories Client
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Ilya.Pykhteev/Documents/GitHub/Study/Product catalog with categories Client/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[F:/Учеба/Study/Product catalog with categories Client/Views/Electronics/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWxlY3Ryb25pY3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ilya.Pykhteev/Documents/GitHub/Study/Product catalog with categories Client/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[F:/Учеба/Study/Product catalog with categories Client/Views/Electronics/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWxlY3Ryb25pY3NcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ilya.Pykhteev/Documents/GitHub/Study/Product catalog with categories Client/Views/Shared/Error.cshtml]
+[F:/Учеба/Study/Product catalog with categories Client/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ilya.Pykhteev/Documents/GitHub/Study/Product catalog with categories Client/Views/Shared/_ValidationScriptsPartial.cshtml]
+[F:/Учеба/Study/Product catalog with categories Client/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ilya.Pykhteev/Documents/GitHub/Study/Product catalog with categories Client/Views/_ViewImports.cshtml]
+[F:/Учеба/Study/Product catalog with categories Client/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ilya.Pykhteev/Documents/GitHub/Study/Product catalog with categories Client/Views/_ViewStart.cshtml]
+[F:/Учеба/Study/Product catalog with categories Client/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ilya.Pykhteev/Documents/GitHub/Study/Product catalog with categories Client/Views/Shared/_Layout.cshtml]
+[F:/Учеба/Study/Product catalog with categories Client/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-7yba64ywxa

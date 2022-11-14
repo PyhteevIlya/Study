@@ -1,0 +1,26 @@
+﻿@model List<Electronic>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Название</th>
+                <th>Тип</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var electronic in Model)
+            {
+                <tr>
+                    <td>@electronic.Name</td>
+                </tr>
+                <tr>
+                    <td>@electronic.Type</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

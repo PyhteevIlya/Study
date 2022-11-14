@@ -50,3 +50,33 @@ C:\Users\Ilya.Pykhteev\Documents\GitHub\Study\Product catalog with categories Cl
 C:\Users\Ilya.Pykhteev\Documents\GitHub\Study\Product catalog with categories Client\obj\Debug\net6.0\Product catalog with categories Client.pdb
 C:\Users\Ilya.Pykhteev\Documents\GitHub\Study\Product catalog with categories Client\obj\Debug\net6.0\Product catalog with categories Client.genruntimeconfig.cache
 C:\Users\Ilya.Pykhteev\Documents\GitHub\Study\Product catalog with categories Client\obj\Debug\net6.0\ref\Product catalog with categories Client.dll
+F:\Учеба\Study\Product catalog with categories Client\bin\Debug\net6.0\appsettings.Development.json
+F:\Учеба\Study\Product catalog with categories Client\bin\Debug\net6.0\appsettings.json
+F:\Учеба\Study\Product catalog with categories Client\bin\Debug\net6.0\Product catalog with categories Client.staticwebassets.runtime.json
+F:\Учеба\Study\Product catalog with categories Client\bin\Debug\net6.0\Product catalog with categories Client.exe
+F:\Учеба\Study\Product catalog with categories Client\bin\Debug\net6.0\Product catalog with categories Client.deps.json
+F:\Учеба\Study\Product catalog with categories Client\bin\Debug\net6.0\Product catalog with categories Client.runtimeconfig.json
+F:\Учеба\Study\Product catalog with categories Client\bin\Debug\net6.0\Product catalog with categories Client.dll
+F:\Учеба\Study\Product catalog with categories Client\bin\Debug\net6.0\Product catalog with categories Client.pdb
+F:\Учеба\Study\Product catalog with categories Client\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\Учеба\Study\Product catalog with categories Client\bin\Debug\net6.0\ProductCatalogData.dll
+F:\Учеба\Study\Product catalog with categories Client\bin\Debug\net6.0\ProductCatalogData.pdb
+F:\Учеба\Study\Product catalog with categories Client\obj\Debug\net6.0\Product catalog with categories Client.csproj.AssemblyReference.cache
+F:\Учеба\Study\Product catalog with categories Client\obj\Debug\net6.0\Product catalog with categories Client.GeneratedMSBuildEditorConfig.editorconfig
+F:\Учеба\Study\Product catalog with categories Client\obj\Debug\net6.0\Product catalog with categories Client.AssemblyInfoInputs.cache
+F:\Учеба\Study\Product catalog with categories Client\obj\Debug\net6.0\Product catalog with categories Client.AssemblyInfo.cs
+F:\Учеба\Study\Product catalog with categories Client\obj\Debug\net6.0\Product catalog with categories Client.csproj.CoreCompileInputs.cache
+F:\Учеба\Study\Product catalog with categories Client\obj\Debug\net6.0\Product catalog with categories Client.MvcApplicationPartsAssemblyInfo.cache
+F:\Учеба\Study\Product catalog with categories Client\obj\Debug\net6.0\Product catalog with categories Client.RazorAssemblyInfo.cache
+F:\Учеба\Study\Product catalog with categories Client\obj\Debug\net6.0\Product catalog with categories Client.RazorAssemblyInfo.cs
+F:\Учеба\Study\Product catalog with categories Client\obj\Debug\net6.0\staticwebassets.build.json
+F:\Учеба\Study\Product catalog with categories Client\obj\Debug\net6.0\staticwebassets.development.json
+F:\Учеба\Study\Product catalog with categories Client\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\Учеба\Study\Product catalog with categories Client\obj\Debug\net6.0\scopedcss\bundle\Product catalog with categories Client.styles.css
+F:\Учеба\Study\Product catalog with categories Client\obj\Debug\net6.0\scopedcss\projectbundle\Product catalog with categories Client.bundle.scp.css
+F:\Учеба\Study\Product catalog with categories Client\obj\Debug\net6.0\Product catalog with categories Client.csproj.CopyComplete
+F:\Учеба\Study\Product catalog with categories Client\obj\Debug\net6.0\Product catalog with categories Client.dll
+F:\Учеба\Study\Product catalog with categories Client\obj\Debug\net6.0\refint\Product catalog with categories Client.dll
+F:\Учеба\Study\Product catalog with categories Client\obj\Debug\net6.0\Product catalog with categories Client.pdb
+F:\Учеба\Study\Product catalog with categories Client\obj\Debug\net6.0\Product catalog with categories Client.genruntimeconfig.cache
+F:\Учеба\Study\Product catalog with categories Client\obj\Debug\net6.0\ref\Product catalog with categories Client.dll

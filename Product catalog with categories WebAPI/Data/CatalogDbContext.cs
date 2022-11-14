@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using ProductCatalogData.Models;
 
 namespace Product_catalog_with_categories_WebAPI.Data
 {
