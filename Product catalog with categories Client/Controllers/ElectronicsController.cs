@@ -62,7 +62,7 @@ namespace Product_catalog_with_categories_Client.Controllers
             try
             {
 
-                var response = await httpClient.GetAsync((string)_pcWebAPIConfig.Value.Endpoint + "Electronic");
+                var response = await httpClient.GetAsync((string)_pcWebAPIConfig.Value.Endpoint + "Electronics");
                 //new StringContent(jsonData), Encoding.UTF8, "application/json"));
 
                 var responseData = await response.Content.ReadAsStringAsync();

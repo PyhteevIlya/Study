@@ -10,3 +10,15 @@ F:\Учеба\Study\ProductCatalogData\obj\Debug\net6.0\ProductCatalogData.dll
 F:\Учеба\Study\ProductCatalogData\obj\Debug\net6.0\refint\ProductCatalogData.dll
 F:\Учеба\Study\ProductCatalogData\obj\Debug\net6.0\ProductCatalogData.pdb
 F:\Учеба\Study\ProductCatalogData\obj\Debug\net6.0\ref\ProductCatalogData.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\Study\ProductCatalogData\bin\Debug\net6.0\ProductCatalogData.deps.json
+C:\Users\Ilya.Pykhteev\Documents\GitHub\Study\ProductCatalogData\bin\Debug\net6.0\ProductCatalogData.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\Study\ProductCatalogData\bin\Debug\net6.0\ProductCatalogData.pdb
+C:\Users\Ilya.Pykhteev\Documents\GitHub\Study\ProductCatalogData\obj\Debug\net6.0\ProductCatalogData.csproj.AssemblyReference.cache
+C:\Users\Ilya.Pykhteev\Documents\GitHub\Study\ProductCatalogData\obj\Debug\net6.0\ProductCatalogData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilya.Pykhteev\Documents\GitHub\Study\ProductCatalogData\obj\Debug\net6.0\ProductCatalogData.AssemblyInfoInputs.cache
+C:\Users\Ilya.Pykhteev\Documents\GitHub\Study\ProductCatalogData\obj\Debug\net6.0\ProductCatalogData.AssemblyInfo.cs
+C:\Users\Ilya.Pykhteev\Documents\GitHub\Study\ProductCatalogData\obj\Debug\net6.0\ProductCatalogData.csproj.CoreCompileInputs.cache
+C:\Users\Ilya.Pykhteev\Documents\GitHub\Study\ProductCatalogData\obj\Debug\net6.0\ProductCatalogData.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\Study\ProductCatalogData\obj\Debug\net6.0\refint\ProductCatalogData.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\Study\ProductCatalogData\obj\Debug\net6.0\ProductCatalogData.pdb
+C:\Users\Ilya.Pykhteev\Documents\GitHub\Study\ProductCatalogData\obj\Debug\net6.0\ref\ProductCatalogData.dll

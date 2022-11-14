@@ -80,3 +80,7 @@ F:\Учеба\Study\Product catalog with categories Client\obj\Debug\net6.0\refi
 F:\Учеба\Study\Product catalog with categories Client\obj\Debug\net6.0\Product catalog with categories Client.pdb
 F:\Учеба\Study\Product catalog with categories Client\obj\Debug\net6.0\Product catalog with categories Client.genruntimeconfig.cache
 F:\Учеба\Study\Product catalog with categories Client\obj\Debug\net6.0\ref\Product catalog with categories Client.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\Study\Product catalog with categories Client\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\Study\Product catalog with categories Client\bin\Debug\net6.0\ProductCatalogData.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\Study\Product catalog with categories Client\bin\Debug\net6.0\ProductCatalogData.pdb
+C:\Users\Ilya.Pykhteev\Documents\GitHub\Study\Product catalog with categories Client\obj\Debug\net6.0\Product catalog with categories Client.csproj.CopyComplete

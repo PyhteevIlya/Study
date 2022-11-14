@@ -162,3 +162,5 @@ F:\Учеба\Study\Product catalog with categories WebAPI\obj\Debug\net6.0\Prod
 F:\Учеба\Study\Product catalog with categories WebAPI\obj\Debug\net6.0\ref\Product catalog with categories WebAPI.dll
 F:\Учеба\Study\Product catalog with categories WebAPI\bin\Debug\net6.0\ProductCatalogData.dll
 F:\Учеба\Study\Product catalog with categories WebAPI\bin\Debug\net6.0\ProductCatalogData.pdb
+C:\Users\Ilya.Pykhteev\Documents\GitHub\Study\Product catalog with categories WebAPI\bin\Debug\net6.0\ProductCatalogData.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\Study\Product catalog with categories WebAPI\bin\Debug\net6.0\ProductCatalogData.pdb
