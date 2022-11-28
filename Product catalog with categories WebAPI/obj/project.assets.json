@@ -1489,19 +1489,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Илья\\.nuget\\packages\\": {}
+    "C:\\Users\\Ilya.Pykhteev\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Учеба\\Study\\Product catalog with categories WebAPI\\Product catalog with categories WebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Ilya.Pykhteev\\Documents\\GitHub\\Study\\Product catalog with categories WebAPI\\Product catalog with categories WebAPI.csproj",
       "projectName": "Product catalog with categories WebAPI",
-      "projectPath": "F:\\Учеба\\Study\\Product catalog with categories WebAPI\\Product catalog with categories WebAPI.csproj",
-      "packagesPath": "C:\\Users\\Илья\\.nuget\\packages\\",
-      "outputPath": "F:\\Учеба\\Study\\Product catalog with categories WebAPI\\obj\\",
+      "projectPath": "C:\\Users\\Ilya.Pykhteev\\Documents\\GitHub\\Study\\Product catalog with categories WebAPI\\Product catalog with categories WebAPI.csproj",
+      "packagesPath": "C:\\Users\\Ilya.Pykhteev\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ilya.Pykhteev\\Documents\\GitHub\\Study\\Product catalog with categories WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Илья\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Ilya.Pykhteev\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1515,8 +1515,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "F:\\Учеба\\Study\\ProductCatalogData\\ProductCatalogData.csproj": {
-              "projectPath": "F:\\Учеба\\Study\\ProductCatalogData\\ProductCatalogData.csproj"
+            "C:\\Users\\Ilya.Pykhteev\\Documents\\GitHub\\Study\\ProductCatalogData\\ProductCatalogData.csproj": {
+              "projectPath": "C:\\Users\\Ilya.Pykhteev\\Documents\\GitHub\\Study\\ProductCatalogData\\ProductCatalogData.csproj"
             }
           }
         }
