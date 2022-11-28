@@ -29,6 +29,8 @@ namespace Product_catalog_with_categories_Client.Controllers
             List<Electronic> Electronic = await GetElectronic();
             return View(Electronic);
 
+
+
             //using (var httpClient = new HttpClient())
             //{
             //    //httpClient.DefaultRequestHeaders.Add("Authoreization", $"Token {_cordraConfig.value.AuthorizationToken}");
@@ -52,11 +54,71 @@ namespace Product_catalog_with_categories_Client.Controllers
             //    List<Electronic> electronics = new List<Electronic>();
             //return View(electronics);
         }
-        private async Task<List<Electronic>> GetElectronic()
+
+
+        public async Task<IActionResult> Remove(int Id)
+        {
+            await RemoveElectronic(Id);
+
+            return RedirectToAction(nameof(Index));
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Edit(Electronic electronic)
+        {
+            return View();
+        }
+
+        [HttpGet]
+        public async Task<IActionResult> Edit(int Id)
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Add(Electronic electronic)
+        {
+            return View();
+        }
+
+        [HttpGet]
+        public async Task<IActionResult> Add()
+        {
+            return View();
+        }
+
+
+        private async Task<bool> RemoveElectronic(int Id)
         {
             using var httpClient = new HttpClient();
 
             httpClient.Timeout = TimeSpan.FromSeconds(5);
+
+            //httpClient.DefaultRequestHeaders.Add("Authoreization", $"Token {_cordraConfig.value.AuthorizationToken}");
+            try
+            {
+
+                var response = await httpClient.DeleteAsync((string)_pcWebAPIConfig.Value.Endpoint + "Electronics/" + Id);
+                //new StringContent(jsonData), Encoding.UTF8, "application/json"));
+
+                var responseData = await response.Content.ReadAsStringAsync();
+
+                if (response.StatusCode == HttpStatusCode.OK)
+                {
+                    return true;
+                }
+
+            }
+            catch { }
+            return false;
+        }
+
+
+        private async Task<List<Electronic>> GetElectronic()
+        {
+            using var httpClient = new HttpClient();
+
+            httpClient.Timeout = TimeSpan.FromSeconds(10);
 
             //httpClient.DefaultRequestHeaders.Add("Authoreization", $"Token {_cordraConfig.value.AuthorizationToken}");
             try
@@ -77,9 +139,6 @@ namespace Product_catalog_with_categories_Client.Controllers
             }
             catch {  }
                 return null;
-
-           
-
         }
         
     }
