@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Илья\\.nuget\\packages\\": {}
+    "C:\\Users\\Ilya.Pykhteev\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Учеба\\Study\\ProductCatalogData\\ProductCatalogData.csproj",
+      "projectUniqueName": "C:\\Users\\Ilya.Pykhteev\\Documents\\GitHub\\Study\\ProductCatalogData\\ProductCatalogData.csproj",
       "projectName": "ProductCatalogData",
-      "projectPath": "F:\\Учеба\\Study\\ProductCatalogData\\ProductCatalogData.csproj",
-      "packagesPath": "C:\\Users\\Илья\\.nuget\\packages\\",
-      "outputPath": "F:\\Учеба\\Study\\ProductCatalogData\\obj\\",
+      "projectPath": "C:\\Users\\Ilya.Pykhteev\\Documents\\GitHub\\Study\\ProductCatalogData\\ProductCatalogData.csproj",
+      "packagesPath": "C:\\Users\\Ilya.Pykhteev\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ilya.Pykhteev\\Documents\\GitHub\\Study\\ProductCatalogData\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Илья\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Ilya.Pykhteev\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
