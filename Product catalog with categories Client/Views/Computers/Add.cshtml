@@ -1,0 +1,25 @@
+﻿@model SelectList
+@{
+    ViewData["Title"] = "Home Page";
+}
+<form action="/Computers/Add"method="post">
+    <div class="my-3">
+        <label>Марка устройства:</label>
+        <input type="text" name="BrandName" class="form-control" />
+    </div>
+    <div class="my-3">
+        <label>Модель устройства:</label>
+        <input type="text" name="Model" class="form-control" />
+    </div>
+    <div class="my-3">
+        <label>Цена:</label>
+        <input type="text" name="Price" class="form-control" />
+    </div>
+    <div class="my-3">
+        <label>Название:</label>
+        <select name="ElectronicId" asp-items="Model" class="form-control">
+
+        </select>
+    </div>
+    <button type="submit"class="btn btn-primary">Сохранить</button>
+</form>

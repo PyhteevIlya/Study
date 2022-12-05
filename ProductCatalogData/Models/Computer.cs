@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace ProductCatalogData.Models
 {
-    public class Computer
+    public class Computer : IItem
     {
         [Key]
         public int Id { get; set; }
@@ -22,7 +22,7 @@ namespace ProductCatalogData.Models
         [ForeignKey(nameof(Electronic))]
         public int ElectronicId { get; set; }
 
-        public Electronic Electronic { get; set; }
+        public Electronic? Electronic { get; set; }
 
     }
 }

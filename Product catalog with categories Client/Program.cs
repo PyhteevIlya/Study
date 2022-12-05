@@ -1,4 +1,6 @@
 using Product_catalog_with_categories_Client.Models.Config;
+using Product_catalog_with_categories_Client.Services;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -6,6 +8,8 @@ builder.Services.AddControllersWithViews();
 
 
 builder.Services.Configure<ProductcatalogwithcategoriesWebAPIConfig>(builder.Configuration.GetSection("Product catalog with categories WebAPI"));
+
+builder.Services.AddScoped<ProductCatalogService>();
 
 var app = builder.Build();
 

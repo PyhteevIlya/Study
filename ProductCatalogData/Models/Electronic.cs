@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ProductCatalogData.Models
 {
-    public class Electronic
+    public class Electronic : IItem
     {
         [Key]
         public int Id { get; set; }

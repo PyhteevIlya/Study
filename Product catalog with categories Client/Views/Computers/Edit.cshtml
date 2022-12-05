@@ -1,0 +1,25 @@
+﻿@model (Computer Computer, SelectList Select)
+@{
+    ViewData["Title"] = "Home Page";
+}
+<form action="/Computers/Edit" method="post">
+    <input type="hidden" name="Id" value="@Model.Computer.Id"/>
+    <div class="my-3">
+        <label>Марка устройства:</label>
+        <input type="text" name="BrandName" class="form-control" value="@Model.Computer.BrandName"/>
+    </div>
+    <div class="my-3">
+        <label>Модель устройства:</label>
+        <input type="text" name="Model" class="form-control" value="@Model.Computer.Model" />
+    </div>
+    <div class="my-3">
+        <label>Цена:</label>
+        <input type="text" name="Price" class="form-control" value="@Model.Computer.Price" />
+    </div>
+    <div class="my-3">
+        <label>Товар:</label>
+        <select name="ElectronicId" asp-items="Model.Select" class="form-control">
+        </select>
+    </div>
+    <button type="submit" class="btn btn-primary">Сохранить</button>
+</form>

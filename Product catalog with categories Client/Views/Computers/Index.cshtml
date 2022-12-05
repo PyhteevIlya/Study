@@ -1,0 +1,38 @@
+﻿@model List<Computer>
+@{
+    ViewData["Title"] = "Home Page";
+}
+<div>
+    <a href="/Computers/Add" class="btn btn-primary">Добавить товар</a>
+</div>
+
+<div class="text-center">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>#</th>
+                <th>Марка</th>
+                <th>Модель</th>
+                <th>Тип</th>
+                <th>Цена</th>
+                <th>Действие</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var Computer in Model)
+            {
+                <tr>
+                    <td>@Computer.Id</td>
+                    <td>@Computer.BrandName</td>
+                    <td>@Computer.Model</td>
+                    <td>@Computer.Electronic.Type</td>
+                    <td>@Computer.Price</td>
+                    <td>
+                        <a href="/Computers/Edit/@Computer.Id">Редактировать</a>
+                        <a href="/Computers/Remove/@Computer.Id">Удалить</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
